@@ -2,6 +2,8 @@
 
 # Zuul
 
+> **Note:** This repository is for demo purposes only. It is not the official Netflix Zuul project and is not intended for production use.
+
 <img src="https://i.imgur.com/mRSosEp.png" width=500/>
 
 
